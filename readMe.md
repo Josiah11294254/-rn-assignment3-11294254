@@ -5,7 +5,7 @@
 This is a simple React Native application that demonstrates the use of `FlatList` and `SectionList` components to display lists of tasks and categories.
 
 <p align="center">
-  <img src="./assets/shot1.png" alt="App Screenshot 1" width="30%"/>
+  <img src="./assets/shot1.jpeg" alt="App Screenshot 1" width="30%"/>
   <img src="./assets/shot3.png" alt="App Screenshot 2" width="30%"/>
   <img src="./assets/shot4.png" alt="App Screenshot 2" width="30%"/>
 </p>
