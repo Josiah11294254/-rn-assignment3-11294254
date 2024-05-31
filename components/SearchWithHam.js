@@ -20,6 +20,7 @@ const SearchWithHam = () => {
 const styles = StyleSheet.create({
   container: {
     width:'100%',
+    paddingRight:10
   },
   header: {
     flexDirection: 'row',
@@ -29,7 +30,7 @@ const styles = StyleSheet.create({
     marginLeft: 10,
     padding: 8,
     borderRadius:10,
-    backgroundColor:'#0e3d96'
+    backgroundColor:'#cf3a3b'
   },
 });
 

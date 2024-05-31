@@ -15,26 +15,28 @@ const CategoryCards = ({ category, image, description }) => {
 
 const styles = StyleSheet.create({
   card: {
-    width: 200,
-    height: 200,
-    backgroundColor: "#f3f5ff",
+    width: 190,
+    height: 300,
+    backgroundColor: "#f8e7e7",
     alignItems: "center",
-    padding: 10,
+    padding: 20,
+    borderColor:' #cf3a3b',
     marginHorizontal: 6,
     borderRadius: 10,
     shadowColor: "#000",
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.8,
+    // shadowOffset: { width: 2, height: 4 },
+    shadowOpacity: 1,
     shadowRadius: 2,
-    elevation: 1,
+    elevation: 3,
   },
   cardContent: {
-    width:'100%'
+    width:'100%',
+    // borderRadius:10,
   },
   image: {
-    width: 100,
-    height: 100,
-    marginTop: 10,
+    width: 120,
+    height: 120,
+    marginTop: 20,
   },
 });
 
